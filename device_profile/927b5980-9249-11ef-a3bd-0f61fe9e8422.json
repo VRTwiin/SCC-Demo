@@ -19,7 +19,7 @@
     "image" : "tb-image;/api/images/tenant/truckjpg.jpg",
     "name" : "Truck",
     "profileData" : {
-      "alarms" : null,
+      "alarms" : [ ],
       "configuration" : {
         "type" : "DEFAULT"
       },
