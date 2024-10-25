@@ -1,0 +1,30 @@
+{
+  "entityType" : "DASHBOARD",
+  "entity" : {
+    "assignedCustomers" : [ {
+      "customerId" : {
+        "entityType" : "CUSTOMER",
+        "id" : "81b246b0-922e-11ef-a3bd-0f61fe9e8422"
+      },
+      "title" : "Turkish Co.",
+      "public" : false
+    } ],
+    "configuration" : {
+      "description" : ""
+    },
+    "externalId" : null,
+    "id" : {
+      "entityType" : "DASHBOARD",
+      "id" : "0a39f440-91f5-11ef-a3bd-0f61fe9e8422"
+    },
+    "image" : null,
+    "mobileHide" : false,
+    "mobileOrder" : null,
+    "name" : "Inventory Monitoring",
+    "title" : "Inventory Monitoring"
+  },
+  "relations" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ ]
+  }
+}
